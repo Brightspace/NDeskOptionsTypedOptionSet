@@ -1,9 +1,0 @@
-syntax: glob
-packages
-obj
-bin
-*.suo
-*.user
-*.exe
-*.nupkg
-*.DotSettings
